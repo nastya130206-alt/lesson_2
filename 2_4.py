@@ -11,3 +11,4 @@ def fizz_buzz(n):
 
 # Вызов функции
 fizz_buzz(17)
+#коммит для Pull Reguest
