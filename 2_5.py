@@ -16,3 +16,4 @@ if __name__ == "__main__":
     print(month_to_season(8))   # Ожидаемый вывод: Лето
     print(month_to_season(11))  # Ожидаемый вывод: Осень
     print(month_to_season(13))  # Ожидаемый вывод: Некорректный номер месяца
+    #коммит для Pull Reguest
